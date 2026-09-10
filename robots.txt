@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://valentinocerrajeria.com.ar/sitemap.xml
